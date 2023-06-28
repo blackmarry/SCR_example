@@ -1,0 +1,7 @@
+$primary: lighten(orangered, 45%);
+
+$enable-rounded: false;
+$card-border-width: 0;
+$card-img-overlay-padding: 2rem;
+
+@import "node_modules/bootstrap/scss/bootstrap";
